@@ -1,25 +1,10 @@
 # Probability
 
 ## Permutations (permutação)
-set = (a, b, c)
+Arranging all elements within then sample space
+P(n) = n!
 
-a, b, c
-a, c, b
-b, a, c
-b, c, a
-c, a, b
-c, b, a
-
-Pn = 3!
-Pn = 3 * 2 * 1
-Pn = 6
-
-We have 6 poissibilities
-
-Pn = n * (n-1) * (n-2) * ... 1 = n!
-n! = factorial
-
-## Variation
+## Variation with repetitions
 set = a, b, c, d, e, f
 Can use 3 at same time
 
