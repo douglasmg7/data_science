@@ -1,3 +1,13 @@
+# Chart
+
+## Terms
+median - the value in the mid
+midrange - sum of higher value and lower value divided by 2
+average - sum all values divided by number all values
+mode - the value with more frequence
+range - higher value minus lower value
+
+
 # Data Science
 
 ## Analysis
@@ -26,4 +36,5 @@ ML is about creating and implementing algorithms that let machines receive data 
 ## Artifical Intelligence (AI)
 Simulating human knowledge and decision making with computers  
 We as human have only managed to reach AI through ML
+
 
